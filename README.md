@@ -215,7 +215,7 @@ Returns JSON predictions for all stocks.
 # 👨‍💻 Contributors
 
 * Abdullah Saood
-* Syed Nalian
+* Saim Ahmad
 
 ---
 
