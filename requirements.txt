@@ -1,0 +1,9 @@
+Flask
+torch
+numpy
+pandas
+yfinance
+feedparser
+scikit-learn
+vaderSentiment
+gunicorn
